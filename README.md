@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/113606314?v=4" width="100" height="100" alt="Ma photo de profil"/>
+  <img src="https://avatars.githubusercontent.com/u/113606649?v=4" width="100" height="100" alt="Ma photo de profil"/>
 </p>
 
 <h3>Mes compétences 🛠</h3>
