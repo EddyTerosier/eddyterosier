@@ -27,11 +27,11 @@
 </blockquote>
 <h3>Visitez mon portfolio !</h3>
 <p align="center">
-  <a href="https://eddyjohn-portfolio-2d.mdbgo.io/">Portfolio</a>
+  <a href="https://eddyjohn-portfolio-2d.mdbgo.io/" target="_blank">Portfolio</a>
 </p>
 <h3>Contactez-moi 📫</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/eddy-terosier-65a05b258/">
+  <a href="https://www.linkedin.com/in/eddy-terosier-65a05b258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
