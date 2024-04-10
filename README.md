@@ -25,7 +25,10 @@
   "Je pense qu'il faut travailler dur pendant environ 10 ans avant de savoir ce que l'on fait"
 - Ben Chesnut, PDG de Mailchimp
 </blockquote>
-
+<h3>Visitez mon portfolio !</h3>
+<p align="center">
+  <a href="https://eddyjohn-portfolio-2d.mdbgo.io/">Portfolio</a>
+</p>
 <h3>Contactez-moi 📫</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/eddy-terosier-65a05b258/">
