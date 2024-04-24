@@ -27,7 +27,7 @@
 </blockquote>
 <h3>Visitez mon portfolio !</h3>
 <p align="center">
-  <a href="https://eddyjohn-portfolio-2d.mdbgo.io/" target="_blank">Portfolio</a>
+  <a href="https://eddyjohn-portfolio-2d-v2.mdbgo.io/" target="_blank">Portfolio</a>
 </p>
 <h3>Contactez-moi 📫</h3>
 <p align="center">
