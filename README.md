@@ -17,7 +17,7 @@
 
 <h3>Statistiques GitHub</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eddyterosier&show_icons=true" alt="Statistiques GitHub d'Eddy"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=eddyterosier&show_icons=true" alt="Statistiques GitHub d'Eddy"/>
 </p>
 
 <h3>Citation favorite 💬</h3>
