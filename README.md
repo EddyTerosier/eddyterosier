@@ -1,9 +1,9 @@
 <h1 align="center">Hello everyone 👋</h1>
 
-<h2 align="center">Étudiant en Bachelor Développement Web Fullstack </h2>
+<h2 align="center">Data Scientist - Ministère des armées </h2>
 
 <p align="center">
-  Actuellement en alternance en tant que développeur fullstack, je me consacre pleinement à l'apprentissage des technologies front-end et back-end.
+  Actuellement data scientist, je me consacre pleinement à l'apprentissage et l'utilisation des technologies IA et data.
 </p>
 
 <p align="center">
@@ -12,8 +12,15 @@
 
 <h3>Mes compétences 🛠</h3>
 
-- Langages : `HTML`, `CSS`, `JavaScript`, `PHP`
-- Frameworks et outils : `Symfony`, `Node.js`, `Express`,`Angular`,`React`,`MySQL`, `PostgreSQL`, `Drupal`
+- Langages : `Python`, `R`, `SQL`, `PHP`, `Javascript`
+- Manipulation de données : `Pandas`, `Numpy`
+- Machine learning : `scikit-learn`, `XGBoost`, `feature engineering`, `choix des métriques`
+- Deep Learning : `PyTorch`, `TensorFlow`
+- NLP et IA générative : `Hugging Face`, `LLM`, `RAG`
+- Visualisation : `Matplotlib`, `Seaborn`, `Plotly`, `Power B`, `Tableau`, `QlikSense`
+- MLOps et industrialisation : `Git`, `Docker`, `MLflow`, `FastAPI`, `CI/CD`
+- Cloud et Big Data : `AWS`, `Azure`, `Spark`, `Databricks`
+- Frameworks et outils : `Symfony`, `Node.js`, `Express`,`Angular`,`React`,`MySQL`, `PostgreSQL`, `Flask`, `Streamlit`
 
 <h3>Statistiques GitHub</h3>
 <p align="center">
