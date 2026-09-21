@@ -17,7 +17,7 @@
 - Machine learning : `scikit-learn`, `XGBoost`, `feature engineering`, `choix des métriques`
 - Deep Learning : `PyTorch`, `TensorFlow`
 - NLP et IA générative : `Hugging Face`, `LLM`, `RAG`
-- Visualisation : `Matplotlib`, `Seaborn`, `Plotly`, `Power B`, `Tableau`, `QlikSense`
+- Visualisation : `Matplotlib`, `Seaborn`, `Plotly`, `Power BI`, `Tableau`, `QlikSense`
 - MLOps et industrialisation : `Git`, `Docker`, `MLflow`, `FastAPI`, `CI/CD`
 - Cloud et Big Data : `AWS`, `Azure`, `Spark`, `Databricks`
 - Frameworks et outils : `Symfony`, `Node.js`, `Express`,`Angular`,`React`,`MySQL`, `PostgreSQL`, `Flask`, `Streamlit`
