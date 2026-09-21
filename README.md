@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone 👋</h1>
 
-<h2 align="center">Data Scientist - Ministère des armées </h2>
+<h2 align="center">Data Scientist & Software Engineer - Ministère des armées </h2>
 
 <p align="center">
   Actuellement data scientist, je me consacre pleinement à l'apprentissage et l'utilisation des technologies IA et data.
